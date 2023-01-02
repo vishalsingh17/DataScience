@@ -1,0 +1,13 @@
+*.zip
+Data
+*_datapane.ipynb
+dp-cache
+.ipynb_checkpoints
+.log
+github_stargazers
+.config
+*-datapane.ipynb
+*.txt
+*.html
+*.csv
+*.json 
